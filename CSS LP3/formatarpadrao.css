@@ -1,0 +1,42 @@
+body{ background-color: gray;} 
+p { color: blue; } 
+h3{ color: white; }
+
+
+form {
+background-color:blue;
+font: 12px arial, sans-serif;
+color:black;
+margin-right: 20px;
+}
+
+table {
+background-color:black;
+font: 12px arial, sans-serif;
+color:black;
+margin-right: 20px;
+}
+
+input {
+background-color:yellow;
+font: 12px arial, sans-serif;
+color:blue;
+border:2px solid #000099;
+}
+
+select {
+background-color:green;
+font: 12px arial, sans-serif;
+color:black;
+border:2px solid #000099;
+}
+
+.botao {
+background-color:gray;
+font: 12px arial, sans-serif;
+color:black;
+margin-right: 20px;
+}
+
+
+
